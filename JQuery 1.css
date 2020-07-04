@@ -1,0 +1,52 @@
+*{
+    font-weight: bold;
+}
+
+body{
+    width: 40%;
+    text-align: center;
+    padding-left: 500px;
+}
+
+header{
+    border: 2px solid black;
+    background-color: #C1C1C1;
+}
+
+input{
+    border-bottom: 50px;
+}
+
+#div_body{
+    border: 2px solid black;
+    height: 310px;
+}
+
+.body_button{
+    margin-top: 30px;
+    border: 2px solid black;
+}
+
+#input1{
+    width: 50%;
+}
+
+#input2{
+    width: 10%;
+    margin-left: 20px;
+    border-radius: 10;
+}
+
+hr{
+    width: 75%;    
+}
+
+button{
+    background-color: white;
+}
+
+footer{
+    background-color: #C1C1C1;
+    height: 30px;
+    border: 2px solid black;
+}
